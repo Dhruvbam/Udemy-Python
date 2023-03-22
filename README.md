@@ -1,3 +1,3 @@
-![alt text](https://github.com/Dhruvbam/Portfolio-Website/blob/main/images/portfolio/wb.png)
+![alt text](https://github.com/Dhruvbam/Udemy-Python/blob/main/py.jpg)
 # Udemy-Python
 Workspace for Udemy 100 days of python
